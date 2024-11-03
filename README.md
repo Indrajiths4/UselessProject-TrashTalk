@@ -42,6 +42,7 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![image](https://github.com/user-attachments/assets/e6bc2c6c-fe79-4dee-82a1-0e3a5270858b)
+Authentication Page
 
 
 ![Screenshot2](Add screenshot 2 here with proper name)
