@@ -4,43 +4,38 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: TrashTeam
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Indrajith S Nair - St. Joseph's College of Engineering and Technology, Palai
 
 ### Project Description
-[2-3 lines about what your project does]
+TrashTalk is a web-based app where users showcase their most pointless items. Other users rate these items on a scale from 1-10, with 10 being the most useless. The app features a leaderboard showcasing the most useless items and their proud owners.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People struggle to showcase their utterly useless items in a meaningful way and lack a competitive platform to prove their item’s pointlessness.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We’ve built TrashTalk: a platform to share your most absurd possessions, get them rated, and claim your place on the “Most Useless” leaderboard!
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- PHP
+- XAMPP (for local server), phpMyAdmin (for database management)
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+Nill
 
 ### Implementation
 For Software:
 # Installation
-[commands]
-
+1.Copy the php files to your folder inside xampp/htdocs 
+2. Create a database in phpAdmin
 # Run
-[commands]
+1.Start Apache and mysql in xampp control panel
+2.Type localhost/dashboard/projectfolder/home.php
 
 ### Project Documentation
 For Software:
