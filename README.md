@@ -73,16 +73,13 @@ NIL
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1e8QnjIIo_g8b4PNCpHxD5Jjtzx8vvzxm/view?usp=drive_link
 
 # Additional Demos
-[Add any extra demo materials/links]
+NIL
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+Individual!
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
