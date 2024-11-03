@@ -60,8 +60,8 @@ Section to delete your useless item
 Leaderboard showing the people with most useless items
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![seq](https://github.com/user-attachments/assets/3bc00c10-64b1-4f5a-b29a-55bf7d37c5c4)
+Sequence Diagram of Project
 
 For Hardware:
 
