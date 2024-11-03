@@ -44,12 +44,20 @@ For Software:
 ![image](https://github.com/user-attachments/assets/e6bc2c6c-fe79-4dee-82a1-0e3a5270858b)
 Authentication Page
 
+![image](https://github.com/user-attachments/assets/ed572919-084a-4c29-994a-1621a81b1eaf)
+Home Page containing other users useless items
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![image](https://github.com/user-attachments/assets/965b5bb8-b315-40de-b3f2-39db7430b75f)
+Section to add new useless item
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![image](https://github.com/user-attachments/assets/c3542267-feb9-4b13-b186-1b44a4db1a76)
+Section to edit your useless item
+
+![image](https://github.com/user-attachments/assets/3a38e2c7-f180-4ebe-b3a5-bc9140c71d1c)
+Section to delete your useless item
+
+![image](https://github.com/user-attachments/assets/7d3ce737-905e-4e38-acb8-36c6fa4b240a)
+Leaderboard showing the people with most useless items
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
